@@ -46,9 +46,7 @@ if choice == "Upload":
         #current dataset name
         idependent_columns=st.multiselect("enter the columns",idependent_df.columns)
         
-       
-        
-        
+         
 
         
 if choice=='Preprocessing':
